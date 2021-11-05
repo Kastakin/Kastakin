@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Hit me up fro anything, my e-mail is open 😄
+
 <!--
 **Kastakin/Kastakin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
