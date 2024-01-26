@@ -1,5 +1,3 @@
-
-
 <p align="center" width="100%">
     <img width="10%" src="https://cdn3.emoji.gg/emojis/2860_hellothere.gif">
 </p>
@@ -11,7 +9,8 @@
 - 📫 **How to reach me**: castellino96@gmail.com
 - 😄 **Pronouns**: he/him/his
 
-[![linkedin](https://img.shields.io/badge/Linked_In-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/arthurio/) [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/kastakin)
+
+[![linkedin](https://img.shields.io/badge/Linked_In-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/lorenzo-castellino-30aa8a169/) [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/kastakin)
 
 ## Stats
 
