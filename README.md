@@ -6,7 +6,7 @@
 - 🌱 **I’m currently learning**: FastAPI, PyTorch, SQLAlchemy, PySide6 🐍
 - 👯 **I'm actively working on**: https://github.com/Kastakin/PyES
 - 💬 **Ask me about**: How to deal with too many projects all at once 🤪
-- 📫 **How to reach me**: castellino96@gmail.com
+- 📫 **How to reach me**: lorenzo.castellino@unito.it
 - 😄 **Pronouns**: he/him/his
 
 
